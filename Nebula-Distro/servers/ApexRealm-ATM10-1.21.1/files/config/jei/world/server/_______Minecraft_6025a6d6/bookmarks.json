@@ -1,0 +1,11 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:minecart"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:rotten_flesh"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"minecolonies:build_goggles","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:spruce_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:dirt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"minecolonies:assistanthammer_gold","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"minecolonies:blockhutstonemason","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:fire_charge"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

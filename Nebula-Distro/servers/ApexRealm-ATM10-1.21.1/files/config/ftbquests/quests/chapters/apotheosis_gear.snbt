@@ -1,0 +1,85 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "apotheosis_gear"
+	group: "15E5B587D291A4AA"
+	icon: {
+		components: {
+			"apotheosis:gem": "apotheosis:core/solar"
+			"apotheosis:purity": "perfect"
+		}
+		id: "apotheosis:gem"
+	}
+	id: "0731FA8830F28280"
+	title: "{ \"en\": \"Apotheosis: Gear & Gems\", \"ru\": \"Апотеоз: Снаряжение и Камни\", \"uk\": \"Апотеоз: Спорядження та Камені\" }"
+	images:
+	order_index: 0
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			title: "{ \"en\": \"First Gem\", \"ru\": \"Первый самоцвет\", \"uk\": \"Перший самоцвіт\" }"
+			description: [
+				"{ \"en\": \"Apotheosis allows you to add powerful bonuses to your gear via gems! Find your first gem.\", \"ru\": \"Мод Apotheosis позволяет добавлять мощные бонусы к вашей экипировке с помощью самоцветов! Найдите свой первый камень.\", \"uk\": \"Мод Apotheosis дозволяє додавати потужні бонуси до вашої екіпіровки за допомогою самоцвітів! Знайдіть свій перший камінь.\" }"
+			]
+			icon: {
+				components: {
+					"apotheosis:gem": "apotheosis:core/solar"
+					"apotheosis:purity": "perfect"
+				}
+				id: "apotheosis:gem"
+			}
+			id: "3BF5B8DE7A1CC4D7"
+			rewards: [
+				{
+					count: 5
+					id: "5D265B41D964221E"
+					item: { count: 1, id: "minecraft:iron_ingot" }
+					type: "item"
+				},
+				{ id: "4063209399EDD574", type: "xp_levels", xp_levels: 1 }
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "67D884FA6DD22065"
+				item: { components: { "ftbfiltersystem:filter": "item(apotheosis:gem)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			title: "{ \"en\": \"Salvaging Table\", \"ru\": \"Стол разборки\", \"uk\": \"Стіл розбирання\" }"
+			description: [
+				"{ \"en\": \"Salvage unwanted gear to get materials for future upgrades.\", \"ru\": \"Разбирайте ненужное снаряжение, чтобы получить материалы для будущих улучшений.\", \"uk\": \"Розбирайте непотрібне спорядження, щоб отримати матеріали для майбутніх покращень.\" }"
+			]
+			dependencies: ["1CD05CB4A3DB112A"]
+			id: "16C74B5F99AD6724"
+			rewards: [{ id: "734AF3AF18C1890F", count: 16, item: { count: 1, id: "apotheosis:common_material" }, type: "item" }]
+			size: 0.95d
+			tasks: [{
+				id: "713EFE882A8DF739"
+				item: { count: 1, id: "apotheosis:common_material" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.0d
+		}
+		{
+			title: "{ \"en\": \"Fusing Slate\", \"ru\": \"Плита сплавления\", \"uk\": \"Плита сплавлення\" }"
+			dependencies: ["6667638252DB9C74"]
+			id: "24D11ED5F4EEDC48"
+			rewards: [{ id: "1EFFC47E86BAF0FB", count: 3, item: { count: 1, id: "apotheosis:sigil_of_socketing" }, type: "item" }]
+			shape: "rsquare"
+			size: 0.9d
+			tasks: [{
+				id: "62B040B3CB6E67D7"
+				item: { count: 1, id: "apotheosis:sigil_of_socketing" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+	]
+}

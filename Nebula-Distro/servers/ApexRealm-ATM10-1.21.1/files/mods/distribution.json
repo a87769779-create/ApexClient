@@ -1,0 +1,65 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "000000000000000000",
+        "smallImageText": "ApexRealm",
+        "smallImageKey": "apexrealm-icon"
+    },
+    "rss": "https://apexrealm.ru/api/rss",
+    "servers": [
+        {
+            "id": "ApexRealm-ATM10",
+            "name": "ApexRealm ATM 10",
+            "description": "Основной сервер ApexRealm с модпаком ATM10 (ZIP-загрузка).",
+            "icon": "https://apexrealm.ru/launcher/assets/server-icon.png",
+            "version": "1.0.0",
+            "address": "play.apexrealm.ru",
+            "minecraftVersion": "1.21.1",
+            "discord": {
+                "shortId": "ApexRealm",
+                "largeImageText": "ApexRealm ATM 10",
+                "largeImageKey": "apexrealm-server"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "javaOptions": {
+                "supported": ">=21",
+                "suggestedMajor": 21
+            },
+            "modules": [
+                {
+                    "id": "net.neoforged.neoforge.21.1.90",
+                    "name": "NeoForge",
+                    "type": "ForgeHosted",
+                    "artifact": {
+                        "size": 6819305,
+                        "MD5": "206a92e8afdf2b4177e0edc087055a08",
+                        "url": "https://apexrealm.ru/launcher/files/neoforge-21.1.90-installer.jar"
+                    },
+                    "subModules": [
+                        {
+                            "id": "net.neoforged.neoforge.21.1.90.version.json",
+                            "name": "NeoForge Version Manifest",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 16692,
+                                "MD5": "ac55db31eedfa67c6f5e98a1b10356e5",
+                                "url": "https://apexrealm.ru/launcher/files/neoforge-version.json"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "com.apexrealm.mods.bundle",
+                    "name": "Mods Bundle",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1208414471,
+                        "MD5": "b48639ca848bcca2c1c86a120e5b0751",
+                        "url": "https://apexrealm.ru/launcher/files/mods.zip"
+                    }
+                }
+            ]
+        }
+    ]
+}

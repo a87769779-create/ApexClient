@@ -1,0 +1,235 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "allthemodium"
+	group: "2084F3F6FB861C5B"
+	icon: {
+		id: "allthemodium:allthemodium_ingot"
+	}
+	id: "4293754F9B2D05F0"
+	title: "{ \"en\": \"Allthemodium\", \"ru\": \"Аллземодиум\", \"uk\": \"Аллземодіум\" }"
+	images:
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			title: "{ \"en\": \"Book of Allthemodium\", \"ru\": \"Книга Аллземодиума\", \"uk\": \"Книга Аллземодіуму\" }"
+			description: [
+				"{ \"en\": \"First steps into the world of Allthemodium, required to progress.\", \"ru\": \"Первые шаги в мире Аллземодиума, необходимые для прогресса.\", \"uk\": \"Перші кроки у світі Аллземодіуму, необхідні для прогресу.\" }"
+			]
+			icon: {
+				components: {
+					"patchouli:book": "allthemodium:allthemodium_book"
+				}
+				id: "patchouli:guide_book"
+			}
+			id: "4B2146C9527C54E7"
+			rewards: [{
+				id: "3B12B107212D8F38"
+				item: {
+					components: {
+						"patchouli:book": "allthemodium:allthemodium_book"
+					}
+					count: 1
+					id: "patchouli:guide_book"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "0AB9BED5E5144BAC"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			title: "{ \"en\": \"Teleport Pad\", \"ru\": \"Платформа телепортации\", \"uk\": \"Платформа телепортації\" }"
+			dependencies: ["201EE3566D4D3123"]
+			id: "07FDA46D83F8360D"
+			rewards: [{
+				count: 4
+				id: "7B9C021468A1C753"
+				item: { count: 1, id: "allthemodium:allthemodium_nugget" }
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "2E083A11E2CFAF86"
+				item: { count: 1, id: "allthemodium:teleport_pad" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			title: "{ \"en\": \"Mining Dimension\", \"ru\": \"Измерение добычи\", \"uk\": \"Вимір видобутку\" }"
+			description: [
+				"{ \"en\": \"Access the dimension where Allthemodium spawns.\", \"ru\": \"Получите доступ к измерению, где генерируется Аллземодиум.\", \"uk\": \"Отримайте доступ до виміру, де генерується Аллземодіум.\" }"
+			]
+			dependencies: ["2C4299D33D419AA0"]
+			icon: {
+				id: "minecraft:stone"
+			}
+			id: "6D738730B371B152"
+			rewards: [{
+				id: "0A199E8DA01BB191"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"minecraft:fortune": 3
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				dimension: "allthemodium:mining"
+				id: "681CB7DF06F2F506"
+				type: "dimension"
+			}]
+			x: 8.0d
+			y: -3.5d
+		}
+		{
+			title: "{ \"en\": \"The Other Dimension\", \"ru\": \"Другое измерение\", \"uk\": \"Інший вимір\" }"
+			dependencies: ["0CC0632E8276C787"]
+			icon: {
+				id: "allthemodium:ancient_grass"
+			}
+			id: "15FEA03A2CDBA33B"
+			rewards: [{
+				id: "7AEEE1852CC48090"
+				item: {
+					components: {
+						"minecraft:potion_contents": {
+							potion: "apothic_attributes:resistance"
+						}
+					}
+					count: 1
+					id: "minecraft:potion"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				dimension: "allthemodium:the_other"
+				id: "0F9FCFCEE795FD41"
+				type: "dimension"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			title: "{ \"en\": \"The Beyond\", \"ru\": \"Дальнее измерение\", \"uk\": \"Далекий вимір\" }"
+			dependencies: ["2EDE91023F7924FB"]
+			icon: {
+				id: "minecraft:barrier"
+			}
+			id: "11E957CDEFA0CAAB"
+			rewards: [{
+				id: "4BB724E0CCCAF4E3"
+				item: { count: 1, id: "utilitarian:angel_block" }
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				dimension: "allthemodium:the_beyond"
+				id: "6514595CBD4DE6C6"
+				type: "dimension"
+			}]
+			x: 8.0d
+			y: 3.5d
+		}
+		{
+			title: "{ \"en\": \"Ancient City Search\", \"ru\": \"Поиск Древнего города\", \"uk\": \"Пошук Стародавнього міста\" }"
+			dependencies: ["4B2146C9527C54E7"]
+			icon: {
+				id: "minecraft:sculk_shrieker"
+			}
+			id: "111E4ACF7D570EE8"
+			rewards: [{
+				count: 64
+				id: "12998E738B4F1564"
+				item: { count: 1, id: "minecraft:white_wool" }
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "298EA976A7627731"
+				structure: "minecraft:ancient_city"
+				type: "structure"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			title: "{ \"en\": \"Allthemodium Ingot\", \"ru\": \"Слиток Аллземодиума\", \"uk\": \"Злиток Аллземодіуму\" }"
+			dependencies: ["111E4ACF7D570EE8"]
+			id: "201EE3566D4D3123"
+			rewards: [
+				{
+					id: "5F1EE465FCFB867B"
+					item: { count: 1, id: "allthemodium:allthemodium_ingot" }
+					type: "item"
+				}
+				{ id: "27481CE73F1BF1AA", type: "xp", xp: 500 }
+			]
+			shape: "octagon"
+			size: 1.4d
+			tasks: [{
+				id: "68FF6DFF022ECC91"
+				item: { count: 1, id: "allthemodium:allthemodium_ingot" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			title: "{ \"en\": \"Allthemodium Upgrade\", \"ru\": \"Улучшение Аллземодиума\", \"uk\": \"Покращення Аллземодіуму\" }"
+			dependencies: ["111E4ACF7D570EE8"]
+			id: "71E4FD61787DE299"
+			rewards: [{
+				id: "38A51A25F4E32D5A"
+				item: { count: 1, id: "allthemodium:allthemodium_upgrade_smithing_template" }
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "546E9C86F2C8382B"
+				item: { count: 1, id: "allthemodium:allthemodium_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			title: "{ \"en\": \"Vibranium Upgrade\", \"ru\": \"Улучшение Вибраниума\", \"uk\": \"Покращення Вібраніуму\" }"
+			dependencies: ["0CC0632E8276C787"]
+			id: "226B8B60AF864FEF"
+			rewards: [{
+				id: "0D33A4BBC88BC226"
+				item: { count: 1, id: "allthemodium:vibranium_upgrade_smithing_template" }
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "0A112FC1145A21E5"
+				item: { count: 1, id: "allthemodium:vibranium_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -1.0d
+		}
+	]
+}
