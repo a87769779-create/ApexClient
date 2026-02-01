@@ -60,6 +60,7 @@
               "id": "net.neoforged.fancymodloader:earlydisplay:4.0.42",
               "name": "Minecraft Forge (earlydisplay)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 261718,
                 "MD5": "6df1105e4016ee9992ca93cd0103e218",
@@ -70,6 +71,7 @@
               "id": "net.neoforged.fancymodloader:loader:4.0.42",
               "name": "Minecraft Forge (loader)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 504899,
                 "MD5": "1722666ba373811ef9b7022c0c4a5a73",
@@ -80,6 +82,7 @@
               "id": "net.neoforged.accesstransformers:at-modlauncher:10.0.1",
               "name": "Minecraft Forge (at-modlauncher)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 2347,
                 "MD5": "f65434f122b97b1ac8fe56ff54873b5f",
@@ -90,6 +93,7 @@
               "id": "net.neoforged:accesstransformers:10.0.1",
               "name": "Minecraft Forge (accesstransformers)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 67234,
                 "MD5": "3a01a09a2b0900381dce48e118882849",
@@ -100,6 +104,7 @@
               "id": "net.neoforged:bus:8.0.5",
               "name": "Minecraft Forge (bus)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 30340,
                 "MD5": "95eee080d9de7cb764adcb8fa2ecf3fb",
@@ -110,6 +115,7 @@
               "id": "net.neoforged:coremods:7.0.3",
               "name": "Minecraft Forge (coremods)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 22659,
                 "MD5": "4527abf6b7116dae1c2178f7beab0ba2",
@@ -120,6 +126,7 @@
               "id": "cpw.mods:modlauncher:11.0.5",
               "name": "Minecraft Forge (modlauncher)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 116486,
                 "MD5": "70fa994f64b2620d20dc325bab758d1b",
@@ -130,6 +137,7 @@
               "id": "net.neoforged:mergetool:2.0.0:api",
               "name": "Minecraft Forge (mergetool)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 2550,
                 "MD5": "818b398f65b8dc5af802b721fd1d0b56",
@@ -140,6 +148,7 @@
               "id": "com.electronwill.night-config:toml:3.8.3",
               "name": "Minecraft Forge (toml)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 39516,
                 "MD5": "71c9f7b86422f206c0d78c1a0600fd3a",
@@ -150,6 +159,7 @@
               "id": "com.electronwill.night-config:core:3.8.3",
               "name": "Minecraft Forge (core)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 382911,
                 "MD5": "a69db71d5c9c274ff08f175d7c12cb1a",
@@ -160,6 +170,7 @@
               "id": "net.neoforged:JarJarSelector:0.4.1",
               "name": "Minecraft Forge (JarJarSelector)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 17168,
                 "MD5": "20d1fe8972655189f69845554ee1a4d1",
@@ -170,6 +181,7 @@
               "id": "net.neoforged:JarJarMetadata:0.4.1",
               "name": "Minecraft Forge (JarJarMetadata)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 15648,
                 "MD5": "c2f30969dd8b1dc8e3f78c731bd2c5c8",
@@ -180,6 +192,7 @@
               "id": "org.apache.maven:maven-artifact:3.8.5",
               "name": "Minecraft Forge (maven-artifact)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
@@ -190,6 +203,7 @@
               "id": "net.jodah:typetools:0.6.3",
               "name": "Minecraft Forge (typetools)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
@@ -200,6 +214,7 @@
               "id": "net.minecrell:terminalconsoleappender:1.3.0",
               "name": "Minecraft Forge (terminalconsoleappender)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 16949,
                 "MD5": "179d3abaf9736dbd8fbd4fa98e1c6ea1",
@@ -210,6 +225,7 @@
               "id": "net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7",
               "name": "Minecraft Forge (sponge-mixin)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 1494751,
                 "MD5": "4808c070bf19415a5cb4a0cb5e569b12",
@@ -220,6 +236,7 @@
               "id": "org.openjdk.nashorn:nashorn-core:15.4",
               "name": "Minecraft Forge (nashorn-core)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 2167292,
                 "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
@@ -230,6 +247,7 @@
               "id": "org.apache.commons:commons-lang3:3.14.0",
               "name": "Minecraft Forge (commons-lang3)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 657952,
                 "MD5": "4e5c3f5e6b0b965ef241d7d72ac8971f",
@@ -240,6 +258,7 @@
               "id": "cpw.mods:bootstraplauncher:2.0.2",
               "name": "Minecraft Forge (bootstraplauncher)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 11116,
                 "MD5": "169bd8c006e69d83267466e311d4049d",
@@ -250,6 +269,7 @@
               "id": "cpw.mods:securejarhandler:3.0.8",
               "name": "Minecraft Forge (securejarhandler)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 103765,
                 "MD5": "eb0d5290a2681c2dbeb8088b82e0fbf9",
@@ -260,6 +280,7 @@
               "id": "org.ow2.asm:asm-commons:9.8",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 73498,
                 "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
@@ -270,6 +291,7 @@
               "id": "org.ow2.asm:asm-util:9.8",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 94559,
                 "MD5": "62498ef324bdab15f407d703f7d78d19",
@@ -280,6 +302,7 @@
               "id": "org.ow2.asm:asm-analysis:9.8",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 35151,
                 "MD5": "3d63508405f5610fc2ea673ff5471553",
@@ -290,6 +313,7 @@
               "id": "org.ow2.asm:asm-tree:9.8",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 51934,
                 "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
@@ -300,6 +324,7 @@
               "id": "org.ow2.asm:asm:9.8",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 126113,
                 "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
@@ -310,6 +335,7 @@
               "id": "net.neoforged:JarJarFileSystems:0.4.1",
               "name": "Minecraft Forge (JarJarFileSystems)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 31807,
                 "MD5": "8d75021e5aeb04652b4b9ae3df500b9e",
@@ -320,6 +346,7 @@
               "id": "net.sf.jopt-simple:jopt-simple:5.0.4",
               "name": "Minecraft Forge (jopt-simple)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
@@ -330,6 +357,7 @@
               "id": "org.slf4j:slf4j-api:2.0.9",
               "name": "Minecraft Forge (slf4j-api)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 64579,
                 "MD5": "45630e54b0f0ac2b3c80462515ad8fda",
@@ -340,6 +368,7 @@
               "id": "org.antlr:antlr4-runtime:4.13.1",
               "name": "Minecraft Forge (antlr4-runtime)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 326305,
                 "MD5": "dd465ddb2a8dbf69eb6c94e69a0d5f0f",
@@ -350,6 +379,7 @@
               "id": "com.mojang:logging:1.2.7",
               "name": "Minecraft Forge (logging)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 15343,
                 "MD5": "d01ea99740509a58222a426cc36f5456",
@@ -360,6 +390,7 @@
               "id": "org.apache.logging.log4j:log4j-slf4j2-impl:2.22.1",
               "name": "Minecraft Forge (log4j-slf4j2-impl)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 27364,
                 "MD5": "82cc94f378ffb853efe084ee9bf4c463",
@@ -370,6 +401,7 @@
               "id": "org.apache.logging.log4j:log4j-core:2.22.1",
               "name": "Minecraft Forge (log4j-core)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 1900022,
                 "MD5": "b5987ee449d4be4244e2e214683c45af",
@@ -380,6 +412,7 @@
               "id": "org.apache.logging.log4j:log4j-api:2.22.1",
               "name": "Minecraft Forge (log4j-api)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 335001,
                 "MD5": "27db0eb89ae965179480df00d8d1cf03",
@@ -390,6 +423,7 @@
               "id": "org.jline:jline-reader:3.20.0",
               "name": "Minecraft Forge (jline-reader)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 171052,
                 "MD5": "9ece57ca56a1688d1d09fe2c48e7a292",
@@ -400,6 +434,7 @@
               "id": "org.jline:jline-terminal:3.20.0",
               "name": "Minecraft Forge (jline-terminal)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 228481,
                 "MD5": "e45dace437743e6b5e75c81eb455fd3e",
@@ -410,6 +445,7 @@
               "id": "commons-io:commons-io:2.15.1",
               "name": "Minecraft Forge (commons-io)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 501218,
                 "MD5": "84351f7991a0e6722f00e96a4ccc376f",
@@ -420,6 +456,7 @@
               "id": "net.minecraftforge:srgutils:0.4.15",
               "name": "Minecraft Forge (srgutils)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 69393,
                 "MD5": "79812fd073afe1c046bc1ea46ad28095",
@@ -430,6 +467,7 @@
               "id": "com.google.guava:guava:32.1.2-jre",
               "name": "Minecraft Forge (guava)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 3041591,
                 "MD5": "5fe031b3b35ed56182478811a931d617",
@@ -440,6 +478,7 @@
               "id": "com.google.guava:failureaccess:1.0.1",
               "name": "Minecraft Forge (failureaccess)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 4617,
                 "MD5": "091883993ef5bfa91da01dcc8fc52236",
@@ -450,6 +489,7 @@
               "id": "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava",
               "name": "Minecraft Forge (listenablefuture)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 2199,
                 "MD5": "d094c22570d65e132c19cea5d352e381",
@@ -460,6 +500,7 @@
               "id": "com.google.code.findbugs:jsr305:3.0.2",
               "name": "Minecraft Forge (jsr305)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 19936,
                 "MD5": "dd83accb899363c32b07d7a1b2e4ce40",
@@ -470,6 +511,7 @@
               "id": "org.checkerframework:checker-qual:3.33.0",
               "name": "Minecraft Forge (checker-qual)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 223979,
                 "MD5": "fc9418b779d9d57dcd52197006cbdb9b",
@@ -480,6 +522,7 @@
               "id": "com.google.errorprone:error_prone_annotations:2.18.0",
               "name": "Minecraft Forge (error_prone_annotations)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 16017,
                 "MD5": "64145d0e7fee5a69ed7b84cf402de998",
@@ -490,6 +533,7 @@
               "id": "com.google.j2objc:j2objc-annotations:2.8",
               "name": "Minecraft Forge (j2objc-annotations)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 9301,
                 "MD5": "c50af69b704dc91050efb98e0dff66d1",
@@ -500,6 +544,7 @@
               "id": "com.google.code.gson:gson:2.10.1",
               "name": "Minecraft Forge (gson)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 283367,
                 "MD5": "df6097815738cb31fc56391553210843",
@@ -510,6 +555,7 @@
               "id": "org.codehaus.plexus:plexus-utils:3.3.0",
               "name": "Minecraft Forge (plexus-utils)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 263253,
                 "MD5": "3ae76ff0195ada460d495efe1fb50d17",
@@ -520,6 +566,7 @@
               "id": "com.machinezoo.noexception:noexception:1.7.1",
               "name": "Minecraft Forge (noexception)",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 250861,
                 "MD5": "fcc3e4df4990088c964f687b62f7c448",
