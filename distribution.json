@@ -1326,16 +1326,6 @@
           }
         },
         {
-          "id": "generated.forgemod:computercraft:1.113.1@jar",
-          "name": "CC: Tweaked",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3094722,
-            "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/servers/ApexRealm-ATM10-1.21.1/forgemods/required/cc-tweaked-1.21.1-forge-1.113.1.jar",
-            "MD5": "c7fdb2f371dc491baba7abccffc004d6"
-          }
-        },
-        {
           "id": "generated.forgemod:computercraft:1.116.2@jar",
           "name": "CC: Tweaked",
           "type": "ForgeMod",
@@ -2166,16 +2156,6 @@
           }
         },
         {
-          "id": "generated.forgemod:fancymenu:3.3.2@jar",
-          "name": "FancyMenu",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2715234,
-            "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/servers/ApexRealm-ATM10-1.21.1/forgemods/required/fancymenu_neoforge_3.3.2_MC_1.21.1.jar",
-            "MD5": "3da807119b95ef9866cffe4f8a518966"
-          }
-        },
-        {
           "id": "generated.forgemod:fancymenu:3.8.1@jar",
           "name": "FancyMenu",
           "type": "ForgeMod",
@@ -2656,16 +2636,6 @@
           }
         },
         {
-          "id": "generated.forgemod:imfast:1.0.2@jar",
-          "name": "I'm Fast",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4157,
-            "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/servers/ApexRealm-ATM10-1.21.1/forgemods/required/imfast-NEOFORGE-1.0.2.jar",
-            "MD5": "c5452cd774be8b0bd67fa75c54be2dba"
-          }
-        },
-        {
           "id": "generated.forgemod:immediatelyfast:1.6.7+1.21.1@jar",
           "name": "ImmediatelyFast",
           "type": "ForgeMod",
@@ -2803,16 +2773,6 @@
             "size": 77127,
             "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/servers/ApexRealm-ATM10-1.21.1/forgemods/required/invtweaks-1.21.1-1.3.2.jar",
             "MD5": "517c295727152fc16f55ae5071eecd31"
-          }
-        },
-        {
-          "id": "generated.forgemod:iris:1.8.12-snapshot+mc1.21.1-local@jar",
-          "name": "Iris",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2438548,
-            "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/servers/ApexRealm-ATM10-1.21.1/forgemods/required/iris-neoforge-1.8.12+mc1.21.1.jar",
-            "MD5": "6c1122aa7c2b1a4f24831e394c5b513f"
           }
         },
         {
