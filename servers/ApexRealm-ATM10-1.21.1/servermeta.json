@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/ApexClient/Nebula-Distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "ApexRealm ATM 10",
+    "description": "Основной сервер ApexRealm с модпаком ATM10.",
+    "icon": "",
+    "address": "donator30.gamely.pro:20899",
+    "discord": {
+      "shortId": "ApexRealm",
+      "largeImageText": "ApexRealm ATM 10",
+      "largeImageKey": "apexrealm-server"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "21.1.90"
+  },
+  "untrackedFiles": []
+}

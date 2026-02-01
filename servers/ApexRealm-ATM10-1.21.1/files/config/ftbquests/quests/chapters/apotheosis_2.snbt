@@ -1,0 +1,55 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "apotheosis_2"
+	group: "6614EE2378B8AFB9"
+	icon: {
+		id: "minecraft:spawner"
+	}
+	id: "0E81CBCD6B1D1895"
+	title: "{ \"en\": \"Apotheosis: Spawners\", \"ru\": \"Апотеоз: Спавнеры\", \"uk\": \"Апотеоз: Спавнери\" }"
+	images:
+	order_index: 0
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			title: "{ \"en\": \"Spawners 101\", \"ru\": \"Спавнеры: Основы\", \"uk\": \"Спавнери: Основи\" }"
+			description: [
+				"{ \"en\": \"Learn how to upgrade and manipulate spawners using Apotheosis! Gather your first spawner.\", \"ru\": \"Узнайте, как улучшать спавнеры с помощью мода Apotheosis! Соберите свой первый спавнер.\", \"uk\": \"Дізнайтеся, як покращувати спавнери за допомогою моду Apotheosis! Зберіть свій перший спавнер.\" }"
+			]
+			icon: {
+				id: "minecraft:spawner"
+			}
+			id: "310969B8FE0A94DE"
+			rewards: [{ id: "6CF9969B1D97D990", type: "xp", xp: 100 }]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "5225548C5219E0C6"
+				item: { count: 1, id: "minecraft:spawner" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			title: "{ \"en\": \"Light Level\", \"ru\": \"Уровень света\", \"uk\": \"Рівень світла\" }"
+			dependencies: ["310969B8FE0A94DE"]
+			id: "0F89BFD4A3F63A48"
+			rewards: [{ id: "5E45AC5B5483C214", type: "xp", xp: 50 }]
+			tasks: [{ id: "5F16431DBEAF97B0", item: { count: 1, id: "minecraft:soul_lantern" }, type: "item" }]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			title: "{ \"en\": \"Redstone Control\", \"ru\": \"Контроль редстоуном\", \"uk\": \"Контроль редстоуном\" }"
+			dependencies: ["310969B8FE0A94DE"]
+			id: "0E02CE4469FCA4C9"
+			rewards: [{ id: "3AF6E1864D06DB2F", type: "xp", xp: 50 }]
+			tasks: [{ id: "39E60F2CA2EFAB9E", item: { count: 1, id: "minecraft:comparator" }, type: "item" }]
+			x: 4.0d
+			y: 0.0d
+		}
+	]
+}

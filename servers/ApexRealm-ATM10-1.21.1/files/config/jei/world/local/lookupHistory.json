@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"iceandfire:lectern"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"iceandfire:bestiary"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

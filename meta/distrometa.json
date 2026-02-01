@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "rss": "https://apexrealm.ru/rss",
+        "discord": {
+            "clientId": "1234567890",
+            "smallImageText": "ApexRealm",
+            "smallImageKey": "logo"
+        }
+    }
+}

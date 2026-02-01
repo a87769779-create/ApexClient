@@ -1,0 +1,45 @@
+# Готовый lootr-common.toml для ТВОЕЙ задачи
+# Сундуки игроков тоже персональные!
+
+[conversion]
+	randomise_seed = true
+	max_age = 18000
+	bypass_spawn_protection = true
+	disable = false
+	convert_mineshafts = true
+	convert_elytras = true
+	convert_player_placed = true        # ← ГЛАВНОЕ! Игроковые сундуки тоже Lootr
+	report_unresolved_tables = false
+	check_world_border = false
+	perform_piecewise_check = true
+
+[decay]
+	decay_all = false
+	decay_value = 6000
+
+[refresh]
+	refresh_all = false
+	refresh_value = 24000
+
+[whitelist]
+	dimension_whitelist = []
+	dimension_blacklist = []
+	loot_table_blacklist = []
+	loot_modid_blacklist = []
+
+[breaking]
+	disable_break = false
+	enable_break = false
+	enable_fake_player_break = false
+	blast_resistant = false
+	blast_immune = false
+	should_drop_player_loot = false
+
+[power]
+	power_comparators = true
+	trapped_custom = false
+
+[notifications]
+	disable_notifications = false
+	notification_delay = 600
+	disable_message_styles = false
