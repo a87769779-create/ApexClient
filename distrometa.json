@@ -1,0 +1,11 @@
+{
+    "$schema": "file:///c:/Users/a8776/OneDrive/Рабочий стол/Nebula-master/schemas/DistroMetaSchema.schema.json",
+    "meta": {
+        "rss": "http://example.com/rss",
+        "discord": {
+            "clientId": "your_client_id_here",
+            "smallImageText": "Nebula",
+            "smallImageKey": "nebula"
+        }
+    }
+}
