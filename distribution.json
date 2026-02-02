@@ -38,9 +38,10 @@
               "id": "21.1.214",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
+              "classpath": true,
               "artifact": {
                 "size": 21148,
-                "MD5": "ea7649c5493a8b80a8d68829a18beec4",
+                "MD5": "465f881c780aca730d93fa61a0cff8ae",
                 "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/versions/1.21.1-forge-21.1.214/1.21.1-forge-21.1.214.json"
               }
             },
@@ -251,7 +252,7 @@
               "artifact": {
                 "size": 657952,
                 "MD5": "4e5c3f5e6b0b965ef241d7d72ac8971f",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar"
+                "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar"
               }
             },
             {
@@ -350,7 +351,7 @@
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
@@ -361,7 +362,7 @@
               "artifact": {
                 "size": 64579,
                 "MD5": "45630e54b0f0ac2b3c80462515ad8fda",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
+                "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
               }
             },
             {
@@ -383,7 +384,7 @@
               "artifact": {
                 "size": 15343,
                 "MD5": "d01ea99740509a58222a426cc36f5456",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/com/mojang/logging/1.2.7/logging-1.2.7.jar"
+                "url": "https://libraries.minecraft.net/com/mojang/logging/1.2.7/logging-1.2.7.jar"
               }
             },
             {
@@ -394,7 +395,7 @@
               "artifact": {
                 "size": 27364,
                 "MD5": "82cc94f378ffb853efe084ee9bf4c463",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar"
+                "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar"
               }
             },
             {
@@ -405,7 +406,7 @@
               "artifact": {
                 "size": 1900022,
                 "MD5": "b5987ee449d4be4244e2e214683c45af",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar"
+                "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar"
               }
             },
             {
@@ -416,7 +417,7 @@
               "artifact": {
                 "size": 335001,
                 "MD5": "27db0eb89ae965179480df00d8d1cf03",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar"
+                "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar"
               }
             },
             {
@@ -449,7 +450,7 @@
               "artifact": {
                 "size": 501218,
                 "MD5": "84351f7991a0e6722f00e96a4ccc376f",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar"
+                "url": "https://libraries.minecraft.net/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar"
               }
             },
             {
@@ -471,7 +472,7 @@
               "artifact": {
                 "size": 3041591,
                 "MD5": "5fe031b3b35ed56182478811a931d617",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar"
+                "url": "https://libraries.minecraft.net/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar"
               }
             },
             {
@@ -482,7 +483,7 @@
               "artifact": {
                 "size": 4617,
                 "MD5": "091883993ef5bfa91da01dcc8fc52236",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"
+                "url": "https://libraries.minecraft.net/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"
               }
             },
             {
@@ -493,7 +494,7 @@
               "artifact": {
                 "size": 2199,
                 "MD5": "d094c22570d65e132c19cea5d352e381",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+                "url": "https://libraries.minecraft.net/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
               }
             },
             {
@@ -504,7 +505,7 @@
               "artifact": {
                 "size": 19936,
                 "MD5": "dd83accb899363c32b07d7a1b2e4ce40",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
+                "url": "https://libraries.minecraft.net/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
               }
             },
             {
@@ -515,7 +516,7 @@
               "artifact": {
                 "size": 223979,
                 "MD5": "fc9418b779d9d57dcd52197006cbdb9b",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar"
+                "url": "https://libraries.minecraft.net/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar"
               }
             },
             {
@@ -526,7 +527,7 @@
               "artifact": {
                 "size": 16017,
                 "MD5": "64145d0e7fee5a69ed7b84cf402de998",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar"
+                "url": "https://libraries.minecraft.net/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar"
               }
             },
             {
@@ -537,7 +538,7 @@
               "artifact": {
                 "size": 9301,
                 "MD5": "c50af69b704dc91050efb98e0dff66d1",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar"
+                "url": "https://libraries.minecraft.net/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar"
               }
             },
             {
@@ -548,7 +549,7 @@
               "artifact": {
                 "size": 283367,
                 "MD5": "df6097815738cb31fc56391553210843",
-                "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"
+                "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"
               }
             },
             {
@@ -571,6 +572,1073 @@
                 "size": 250861,
                 "MD5": "fcc3e4df4990088c964f687b62f7c448",
                 "url": "https://raw.githubusercontent.com/a87769779-create/ApexClient/main/repo/lib/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar"
+              }
+            },
+            {
+              "id": "ca.weblite:java-objc-bridge:1.1",
+              "name": "Minecraft Forge (java-objc-bridge)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 1330045,
+                "MD5": "da3ffe00911d732132a9197fd7e58602",
+                "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.1/java-objc-bridge-1.1.jar"
+              }
+            },
+            {
+              "id": "com.github.oshi:oshi-core:6.4.10",
+              "name": "Minecraft Forge (oshi-core)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 979212,
+                "MD5": "75676ac6c1a3c4b0938f73e03eef8cad",
+                "url": "https://libraries.minecraft.net/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar"
+              }
+            },
+            {
+              "id": "com.google.code.gson:gson:2.10.1",
+              "name": "Minecraft Forge (gson)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 283367,
+                "MD5": "df6097815738cb31fc56391553210843",
+                "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"
+              }
+            },
+            {
+              "id": "com.google.guava:failureaccess:1.0.1",
+              "name": "Minecraft Forge (failureaccess)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 4617,
+                "MD5": "091883993ef5bfa91da01dcc8fc52236",
+                "url": "https://libraries.minecraft.net/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"
+              }
+            },
+            {
+              "id": "com.google.guava:guava:32.1.2-jre",
+              "name": "Minecraft Forge (guava)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 3041591,
+                "MD5": "5fe031b3b35ed56182478811a931d617",
+                "url": "https://libraries.minecraft.net/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar"
+              }
+            },
+            {
+              "id": "com.ibm.icu:icu4j:73.2",
+              "name": "Minecraft Forge (icu4j)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 14567819,
+                "MD5": "23a23de561dd4f83e13d46e7273a35de",
+                "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j/73.2/icu4j-73.2.jar"
+              }
+            },
+            {
+              "id": "com.mojang:authlib:6.0.54",
+              "name": "Minecraft Forge (authlib)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 115242,
+                "MD5": "8d5cc32d757f204ed369e6b27ff99469",
+                "url": "https://libraries.minecraft.net/com/mojang/authlib/6.0.54/authlib-6.0.54.jar"
+              }
+            },
+            {
+              "id": "com.mojang:blocklist:1.0.10",
+              "name": "Minecraft Forge (blocklist)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 964,
+                "MD5": "fc1420e3182dd32b4df9933f810ebebb",
+                "url": "https://libraries.minecraft.net/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar"
+              }
+            },
+            {
+              "id": "com.mojang:brigadier:1.3.10",
+              "name": "Minecraft Forge (brigadier)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 80082,
+                "MD5": "a755b426eb7942bb74b46a95b02f1de4",
+                "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar"
+              }
+            },
+            {
+              "id": "com.mojang:datafixerupper:8.0.16",
+              "name": "Minecraft Forge (datafixerupper)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 724313,
+                "MD5": "d932ac637b6d83e6c45a8f269fe81e3b",
+                "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar"
+              }
+            },
+            {
+              "id": "com.mojang:logging:1.2.7",
+              "name": "Minecraft Forge (logging)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 15343,
+                "MD5": "d01ea99740509a58222a426cc36f5456",
+                "url": "https://libraries.minecraft.net/com/mojang/logging/1.2.7/logging-1.2.7.jar"
+              }
+            },
+            {
+              "id": "com.mojang:patchy:2.2.10",
+              "name": "Minecraft Forge (patchy)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 4439,
+                "MD5": "ff905bf0aacf501149a13880a2d6742d",
+                "url": "https://libraries.minecraft.net/com/mojang/patchy/2.2.10/patchy-2.2.10.jar"
+              }
+            },
+            {
+              "id": "com.mojang:text2speech:1.17.9",
+              "name": "Minecraft Forge (text2speech)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 12243,
+                "MD5": "f5b05e8db22e2e0668b786e11ac9d3ce",
+                "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar"
+              }
+            },
+            {
+              "id": "commons-codec:commons-codec:1.16.0",
+              "name": "Minecraft Forge (commons-codec)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 360738,
+                "MD5": "6e26920fa7228891980890cce06b718c",
+                "url": "https://libraries.minecraft.net/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar"
+              }
+            },
+            {
+              "id": "commons-io:commons-io:2.15.1",
+              "name": "Minecraft Forge (commons-io)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 501218,
+                "MD5": "84351f7991a0e6722f00e96a4ccc376f",
+                "url": "https://libraries.minecraft.net/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar"
+              }
+            },
+            {
+              "id": "commons-logging:commons-logging:1.2",
+              "name": "Minecraft Forge (commons-logging)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 61829,
+                "MD5": "040b4b4d8eac886f6b4a2a3bd2f31b00",
+                "url": "https://libraries.minecraft.net/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"
+              }
+            },
+            {
+              "id": "io.netty:netty-buffer:4.1.97.Final",
+              "name": "Minecraft Forge (netty-buffer)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 306590,
+                "MD5": "dd92171035f73671187d7b9f4bab466b",
+                "url": "https://libraries.minecraft.net/io/netty/netty-buffer/4.1.97.Final/netty-buffer-4.1.97.Final.jar"
+              }
+            },
+            {
+              "id": "io.netty:netty-codec:4.1.97.Final",
+              "name": "Minecraft Forge (netty-codec)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 345274,
+                "MD5": "aa46c70ffdf48e421e8139a2a5ef452a",
+                "url": "https://libraries.minecraft.net/io/netty/netty-codec/4.1.97.Final/netty-codec-4.1.97.Final.jar"
+              }
+            },
+            {
+              "id": "io.netty:netty-common:4.1.97.Final",
+              "name": "Minecraft Forge (netty-common)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 659930,
+                "MD5": "764a6c7a71718d4472250aaceff85199",
+                "url": "https://libraries.minecraft.net/io/netty/netty-common/4.1.97.Final/netty-common-4.1.97.Final.jar"
+              }
+            },
+            {
+              "id": "io.netty:netty-handler:4.1.97.Final",
+              "name": "Minecraft Forge (netty-handler)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 560040,
+                "MD5": "d8c1f0f03557c6b811c6781e84f7df09",
+                "url": "https://libraries.minecraft.net/io/netty/netty-handler/4.1.97.Final/netty-handler-4.1.97.Final.jar"
+              }
+            },
+            {
+              "id": "io.netty:netty-resolver:4.1.97.Final",
+              "name": "Minecraft Forge (netty-resolver)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 37792,
+                "MD5": "d7efcf0f736048a170bedbf5d52de366",
+                "url": "https://libraries.minecraft.net/io/netty/netty-resolver/4.1.97.Final/netty-resolver-4.1.97.Final.jar"
+              }
+            },
+            {
+              "id": "io.netty:netty-transport-classes-epoll:4.1.97.Final",
+              "name": "Minecraft Forge (netty-transport-classes-epoll)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 147139,
+                "MD5": "be03cdf7e86624fa23bbbc1469d7b699",
+                "url": "https://libraries.minecraft.net/io/netty/netty-transport-classes-epoll/4.1.97.Final/netty-transport-classes-epoll-4.1.97.Final.jar"
+              }
+            },
+            {
+              "id": "io.netty:netty-transport-native-epoll:4.1.97.Final:linux-aarch_64",
+              "name": "Minecraft Forge (netty-transport-native-epoll)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 40427,
+                "MD5": "64770a7130a5b55ba9f907c9a3cd747c",
+                "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-epoll/4.1.97.Final/netty-transport-native-epoll-4.1.97.Final-linux-aarch_64.jar"
+              }
+            },
+            {
+              "id": "io.netty:netty-transport-native-epoll:4.1.97.Final:linux-x86_64",
+              "name": "Minecraft Forge (netty-transport-native-epoll)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 38954,
+                "MD5": "97bdbcb1d2bbe59508650de89d1a55e3",
+                "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-epoll/4.1.97.Final/netty-transport-native-epoll-4.1.97.Final-linux-x86_64.jar"
+              }
+            },
+            {
+              "id": "io.netty:netty-transport-native-unix-common:4.1.97.Final",
+              "name": "Minecraft Forge (netty-transport-native-unix-common)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 43897,
+                "MD5": "8e4202feb40bc15c17577034852c74cb",
+                "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-unix-common/4.1.97.Final/netty-transport-native-unix-common-4.1.97.Final.jar"
+              }
+            },
+            {
+              "id": "io.netty:netty-transport:4.1.97.Final",
+              "name": "Minecraft Forge (netty-transport)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 489624,
+                "MD5": "bd95f799cb2b783f198e3b387c6fc856",
+                "url": "https://libraries.minecraft.net/io/netty/netty-transport/4.1.97.Final/netty-transport-4.1.97.Final.jar"
+              }
+            },
+            {
+              "id": "it.unimi.dsi:fastutil:8.5.12",
+              "name": "Minecraft Forge (fastutil)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 23326598,
+                "MD5": "b14a620f5d2a052f5b59d0ae02bc8f2a",
+                "url": "https://libraries.minecraft.net/it/unimi/dsi/fastutil/8.5.12/fastutil-8.5.12.jar"
+              }
+            },
+            {
+              "id": "net.java.dev.jna:jna-platform:5.14.0",
+              "name": "Minecraft Forge (jna-platform)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 1369287,
+                "MD5": "3bc3f09a698e6ad250dd093f64fbb8a7",
+                "url": "https://libraries.minecraft.net/net/java/dev/jna/jna-platform/5.14.0/jna-platform-5.14.0.jar"
+              }
+            },
+            {
+              "id": "net.java.dev.jna:jna:5.14.0",
+              "name": "Minecraft Forge (jna)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 1878533,
+                "MD5": "8b3cc652920435ad9f801e6d9b2a3497",
+                "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar"
+              }
+            },
+            {
+              "id": "net.sf.jopt-simple:jopt-simple:5.0.4",
+              "name": "Minecraft Forge (jopt-simple)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 78146,
+                "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
+                "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+              }
+            },
+            {
+              "id": "org.apache.commons:commons-compress:1.26.0",
+              "name": "Minecraft Forge (commons-compress)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 1078328,
+                "MD5": "cbc0bb8eca12b747ca21bf998d736e60",
+                "url": "https://libraries.minecraft.net/org/apache/commons/commons-compress/1.26.0/commons-compress-1.26.0.jar"
+              }
+            },
+            {
+              "id": "org.apache.commons:commons-lang3:3.14.0",
+              "name": "Minecraft Forge (commons-lang3)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 657952,
+                "MD5": "4e5c3f5e6b0b965ef241d7d72ac8971f",
+                "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar"
+              }
+            },
+            {
+              "id": "org.apache.httpcomponents:httpclient:4.5.13",
+              "name": "Minecraft Forge (httpclient)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 780321,
+                "MD5": "40d6b9075fbd28fa10292a45a0db9457",
+                "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar"
+              }
+            },
+            {
+              "id": "org.apache.httpcomponents:httpcore:4.4.16",
+              "name": "Minecraft Forge (httpcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 327891,
+                "MD5": "28d2cd9bf8789fd2ec774fb88436ebd1",
+                "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-api:2.22.1",
+              "name": "Minecraft Forge (log4j-api)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 335001,
+                "MD5": "27db0eb89ae965179480df00d8d1cf03",
+                "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-core:2.22.1",
+              "name": "Minecraft Forge (log4j-core)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 1900022,
+                "MD5": "b5987ee449d4be4244e2e214683c45af",
+                "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-slf4j2-impl:2.22.1",
+              "name": "Minecraft Forge (log4j-slf4j2-impl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 27364,
+                "MD5": "82cc94f378ffb853efe084ee9bf4c463",
+                "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar"
+              }
+            },
+            {
+              "id": "org.jcraft:jorbis:0.0.17",
+              "name": "Minecraft Forge (jorbis)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 99701,
+                "MD5": "4794379b6074b962bb4cab21bfdb8d9c",
+                "url": "https://libraries.minecraft.net/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar"
+              }
+            },
+            {
+              "id": "org.joml:joml:1.10.5",
+              "name": "Minecraft Forge (joml)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 712082,
+                "MD5": "406b22ecc091923bbd37ecf8141a9576",
+                "url": "https://libraries.minecraft.net/org/joml/joml/1.10.5/joml-1.10.5.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-freetype:3.3.3",
+              "name": "Minecraft Forge (lwjgl-freetype)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 450896,
+                "MD5": "4506c5f102d10aab0dae80214579352c",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-freetype:3.3.3:natives-linux",
+              "name": "Minecraft Forge (lwjgl-freetype)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 1245129,
+                "MD5": "7da8d8e06e7315c6c877ae5e542407b6",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-linux.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-arm64",
+              "name": "Minecraft Forge (lwjgl-freetype)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 1040981,
+                "MD5": "143b59c20376a7831f12133df6b02900",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-patch",
+              "name": "Minecraft Forge (lwjgl-freetype)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 1071983,
+                "MD5": "c39c93d80aefeccd7994c2224bd83a1b",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-patch.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-freetype:3.3.3:natives-windows",
+              "name": "Minecraft Forge (lwjgl-freetype)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 1035586,
+                "MD5": "f6c227c28bfc55f5bcf35a3d95286796",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-windows.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-freetype:3.3.3:natives-windows-arm64",
+              "name": "Minecraft Forge (lwjgl-freetype)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 886068,
+                "MD5": "8ee4638613eaa7918b858edc42a70a9a",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-windows-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-freetype:3.3.3:natives-windows-x86",
+              "name": "Minecraft Forge (lwjgl-freetype)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 877480,
+                "MD5": "3bcfead0f4623a0b429f98f1a52b43ae",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-windows-x86.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-glfw:3.3.3",
+              "name": "Minecraft Forge (lwjgl-glfw)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 135546,
+                "MD5": "41c1287c1219fd0b67e8d51879f4c812",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-glfw:3.3.3:natives-linux",
+              "name": "Minecraft Forge (lwjgl-glfw)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 118478,
+                "MD5": "9b31da2f80cbbdc6d76b72c8ac2cf943",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-linux.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-glfw:3.3.3:natives-macos",
+              "name": "Minecraft Forge (lwjgl-glfw)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 140884,
+                "MD5": "51407662c335ea212859134a3ff98c9f",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-macos.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-glfw:3.3.3:natives-macos-arm64",
+              "name": "Minecraft Forge (lwjgl-glfw)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 138288,
+                "MD5": "7df383a3f6167b1238d6a628cfec9a20",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-macos-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-glfw:3.3.3:natives-windows",
+              "name": "Minecraft Forge (lwjgl-glfw)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 166368,
+                "MD5": "135887d54b4ce08d087f3644ca75469e",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-windows.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-glfw:3.3.3:natives-windows-arm64",
+              "name": "Minecraft Forge (lwjgl-glfw)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 141970,
+                "MD5": "cac472eb6f17a2cf0641c9449846916e",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-windows-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-glfw:3.3.3:natives-windows-x86",
+              "name": "Minecraft Forge (lwjgl-glfw)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 157123,
+                "MD5": "517fe3396f958b2167889ff54ee9b725",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-windows-x86.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-jemalloc:3.3.3",
+              "name": "Minecraft Forge (lwjgl-jemalloc)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 43896,
+                "MD5": "a8ffc7d8a0d54981f1d7b5c2a40acf01",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-jemalloc:3.3.3:natives-linux",
+              "name": "Minecraft Forge (lwjgl-jemalloc)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 206779,
+                "MD5": "a3867865fad43f2ccb6b20dea405b3c8",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3-natives-linux.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-jemalloc:3.3.3:natives-macos",
+              "name": "Minecraft Forge (lwjgl-jemalloc)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 153131,
+                "MD5": "a2679045e834ff7a259e9a3dc8b688ad",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3-natives-macos.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-jemalloc:3.3.3:natives-macos-arm64",
+              "name": "Minecraft Forge (lwjgl-jemalloc)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 141418,
+                "MD5": "79fee05c55276ee6138aa3ca948e47d7",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3-natives-macos-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-jemalloc:3.3.3:natives-windows",
+              "name": "Minecraft Forge (lwjgl-jemalloc)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 180344,
+                "MD5": "1216d546b0af7aacdbf8a9b96b301b5d",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3-natives-windows.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-jemalloc:3.3.3:natives-windows-arm64",
+              "name": "Minecraft Forge (lwjgl-jemalloc)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 154415,
+                "MD5": "f71740c593171351e32e3a9cf41259fd",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3-natives-windows-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-jemalloc:3.3.3:natives-windows-x86",
+              "name": "Minecraft Forge (lwjgl-jemalloc)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 148612,
+                "MD5": "3272b6db8bd3e604a1a5c9a9f7c59470",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3-natives-windows-x86.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-openal:3.3.3",
+              "name": "Minecraft Forge (lwjgl-openal)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 110586,
+                "MD5": "3ae8606b16891af57eb08ed5a6f78ed8",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-openal:3.3.3:natives-linux",
+              "name": "Minecraft Forge (lwjgl-openal)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 573224,
+                "MD5": "82bec56d8f88b000b29550c5946bada4",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-linux.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-openal:3.3.3:natives-macos",
+              "name": "Minecraft Forge (lwjgl-openal)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 519824,
+                "MD5": "f86e3a24bcc8a954ff4282b182d859ab",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-macos.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-openal:3.3.3:natives-macos-arm64",
+              "name": "Minecraft Forge (lwjgl-openal)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 471012,
+                "MD5": "01335e4b55886f70f577d80316bbc3f8",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-macos-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-openal:3.3.3:natives-windows",
+              "name": "Minecraft Forge (lwjgl-openal)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 698720,
+                "MD5": "42fee9d5654d4319fd05d65dd65bc61b",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-windows.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-openal:3.3.3:natives-windows-arm64",
+              "name": "Minecraft Forge (lwjgl-openal)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 630410,
+                "MD5": "b07b2f996310084d57daf2b91243c41c",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-windows-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-openal:3.3.3:natives-windows-x86",
+              "name": "Minecraft Forge (lwjgl-openal)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 638424,
+                "MD5": "6ba8d6e24b37664fae75c75d8dfb53b9",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-windows-x86.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-opengl:3.3.3",
+              "name": "Minecraft Forge (lwjgl-opengl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 929192,
+                "MD5": "d5a85fe9c675ff040197e2e2dd694fc1",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-opengl:3.3.3:natives-linux",
+              "name": "Minecraft Forge (lwjgl-opengl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 80463,
+                "MD5": "de05e5c258591d07d294a9c16096a383",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-linux.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-opengl:3.3.3:natives-macos",
+              "name": "Minecraft Forge (lwjgl-opengl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 41484,
+                "MD5": "a182618fe4328247f74bd9f6af25a960",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-macos.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-opengl:3.3.3:natives-macos-arm64",
+              "name": "Minecraft Forge (lwjgl-opengl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 42487,
+                "MD5": "60136d90ec2fbebb314a796280ca4cfd",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-macos-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-opengl:3.3.3:natives-windows",
+              "name": "Minecraft Forge (lwjgl-opengl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 101535,
+                "MD5": "6577f923b0cf80ee8edbd644fd242cfd",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-windows.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-opengl:3.3.3:natives-windows-arm64",
+              "name": "Minecraft Forge (lwjgl-opengl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 83095,
+                "MD5": "2d7b4a5ac9202e893da4b24ca41f8325",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-windows-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-opengl:3.3.3:natives-windows-x86",
+              "name": "Minecraft Forge (lwjgl-opengl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 88612,
+                "MD5": "69720f35485dfb71f2ef3c10bd2896e9",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-windows-x86.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-stb:3.3.3",
+              "name": "Minecraft Forge (lwjgl-stb)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 120283,
+                "MD5": "11b824be2cd8532eb6ef063ada6a75bd",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-stb:3.3.3:natives-linux",
+              "name": "Minecraft Forge (lwjgl-stb)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 231820,
+                "MD5": "23a604402c5e9527ecce65e66086308a",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-linux.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-stb:3.3.3:natives-macos",
+              "name": "Minecraft Forge (lwjgl-stb)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 216456,
+                "MD5": "196384ec41be158f238b51bfa8a9beee",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-macos.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-stb:3.3.3:natives-macos-arm64",
+              "name": "Minecraft Forge (lwjgl-stb)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 183628,
+                "MD5": "61187ad578559e675af26e00e1357f7c",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-macos-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-stb:3.3.3:natives-windows",
+              "name": "Minecraft Forge (lwjgl-stb)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 261297,
+                "MD5": "de8a908137d9fdfbc1a5bd51821ae627",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-windows.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-stb:3.3.3:natives-windows-arm64",
+              "name": "Minecraft Forge (lwjgl-stb)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 219511,
+                "MD5": "f73a27007a9d015b1a59e0f6eb7f7c6b",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-windows-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-stb:3.3.3:natives-windows-x86",
+              "name": "Minecraft Forge (lwjgl-stb)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 227800,
+                "MD5": "f7e7de866334176edff33cc1b2259259",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-windows-x86.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-tinyfd:3.3.3",
+              "name": "Minecraft Forge (lwjgl-tinyfd)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 13400,
+                "MD5": "c687eaba9debbc609df72ab45f4e1164",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-tinyfd:3.3.3:natives-linux",
+              "name": "Minecraft Forge (lwjgl-tinyfd)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 44192,
+                "MD5": "36797f4097de3e127cefc1ed5aa09f02",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3-natives-linux.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-tinyfd:3.3.3:natives-macos",
+              "name": "Minecraft Forge (lwjgl-tinyfd)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 45865,
+                "MD5": "76aa5034dd877a1931042e384758f2a4",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3-natives-macos.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-tinyfd:3.3.3:natives-macos-arm64",
+              "name": "Minecraft Forge (lwjgl-tinyfd)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 42498,
+                "MD5": "1cb4afe868ef8a7873bf5d770315a8e8",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3-natives-macos-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-tinyfd:3.3.3:natives-windows",
+              "name": "Minecraft Forge (lwjgl-tinyfd)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 130253,
+                "MD5": "29af279b72e41176fe4602cbc3d0dfd8",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3-natives-windows.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-tinyfd:3.3.3:natives-windows-arm64",
+              "name": "Minecraft Forge (lwjgl-tinyfd)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 110867,
+                "MD5": "85f7ae98689ae3d6667a63b92c4088fa",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3-natives-windows-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl-tinyfd:3.3.3:natives-windows-x86",
+              "name": "Minecraft Forge (lwjgl-tinyfd)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 111797,
+                "MD5": "4b5757966cf76a2f865d5dfe9eb5040c",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3-natives-windows-x86.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl:3.3.3",
+              "name": "Minecraft Forge (lwjgl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 785029,
+                "MD5": "d89fce0be944d8cffd1f82c6546509bf",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl:3.3.3:natives-linux",
+              "name": "Minecraft Forge (lwjgl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 114627,
+                "MD5": "be04104b73f6154ceb5fdfa651e07e84",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-linux.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl:3.3.3:natives-macos",
+              "name": "Minecraft Forge (lwjgl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 60543,
+                "MD5": "9eff27060bbfc374368ec2481cf817c7",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-macos.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl:3.3.3:natives-macos-arm64",
+              "name": "Minecraft Forge (lwjgl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 48620,
+                "MD5": "7d59eab8314d60e78ff9f4a89ef19b59",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-macos-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl:3.3.3:natives-windows",
+              "name": "Minecraft Forge (lwjgl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 165442,
+                "MD5": "57b9ecc451e79997e3d5432f5dffe571",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-windows.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl:3.3.3:natives-windows-arm64",
+              "name": "Minecraft Forge (lwjgl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 133378,
+                "MD5": "e4411661054727394d5228554e5ff5a9",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-windows-arm64.jar"
+              }
+            },
+            {
+              "id": "org.lwjgl:lwjgl:3.3.3:natives-windows-x86",
+              "name": "Minecraft Forge (lwjgl)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 139653,
+                "MD5": "07b3ab69783c45a5f94b28497a9e4934",
+                "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-windows-x86.jar"
+              }
+            },
+            {
+              "id": "org.lz4:lz4-java:1.8.0",
+              "name": "Minecraft Forge (lz4-java)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 682804,
+                "MD5": "936a927700aa8fc3b75d21d7571171f6",
+                "url": "https://libraries.minecraft.net/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar"
+              }
+            },
+            {
+              "id": "org.slf4j:slf4j-api:2.0.9",
+              "name": "Minecraft Forge (slf4j-api)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 64579,
+                "MD5": "45630e54b0f0ac2b3c80462515ad8fda",
+                "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
               }
             }
           ]
